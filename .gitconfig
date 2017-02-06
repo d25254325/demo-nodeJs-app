@@ -1,0 +1,11 @@
+[core]
+	packedGitWindowSize = 16m
+	packedGitLimit = 64m
+[user]
+	name = d252543211
+	email = d252543211@gmail.com
+[pack]
+	windowMemory = 64m
+	packSizeLimit = 64m
+	thread = 1
+	deltaCacheSize = 1m
